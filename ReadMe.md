@@ -37,8 +37,8 @@ This is a project  curated to help user with looking up words in a dictionary. I
 - Add Source URL for cross refrencing
 - Mobile responsiveness
 ## License
-© 2026 David Manjari. All rights reserved.
-This project is licensed under the [MIT License]. See the (LICENSE) file for details.
+© 2026 David Manjari. All rights reserved.  
+This project is licensed under the MIT License. See the [MIT License](LICENSE) file for details.
 ## Contacts
 - Email: david.manjari@student.moringaschool.com
 - GitHub: https://github.com/David-Manjari
